@@ -12,7 +12,7 @@ from streamlit_folium import st_folium
 ######################################################################################################################################################
 
 #Titel van het dashboard
-st.title("Laadpalen en elektrische auto's in Nederland")
+st.title("Laadpalen en elektrische auto's")
 
 #sidebar met tabs
 st.sidebar.title("Inhoud")
